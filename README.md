@@ -1,7 +1,7 @@
 # Mohammad-Khalil
 
 ## week 1
-= DAY 1 101 
+- DAY 1 101 
 * HTML CSS JS
 - DAY 2 102 
 * GITHUB AND MD
